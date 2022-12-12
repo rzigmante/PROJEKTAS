@@ -1,0 +1,20 @@
+nav a {
+    display: flex;
+    flex-direction: row;
+    float: right;
+    flex-direction: row-reverse;
+    width: 100px;
+    row-gap: 20px;
+    padding: 20px;
+    background-color: mediumslateblue;
+    color: var(--white);
+    text-decoration: none;
+}
+
+nav {
+    background-color: mediumslateblue;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+
+}

@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    color: fuchsia;
+    font-size: xx-large;
+}
+
+.active {
+    background-color: lightpink;
+}
